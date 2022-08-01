@@ -11,4 +11,9 @@ public class DemoGit {
 		System.out.println("123");
 		
 	}
+	
+	public void m1()
+	{
+		System.out.println("DemoGit.m1()");
+	}
 }
